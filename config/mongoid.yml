@@ -1,0 +1,6 @@
+development:
+  clients:
+    default:
+      database: instabobos
+      hosts:
+        - localhost:27017
