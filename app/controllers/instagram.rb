@@ -3,7 +3,7 @@
 
 # 
 
-# Step 0:   Provide a way to manage a ridirect to the third party login
+# Step 0:   Provide a way to manage a redirect to the third party login
 
 # Step 1:   Redirect the users to the third party Auth url. This redirect 
 #           usually require send some query params to notify the third party
